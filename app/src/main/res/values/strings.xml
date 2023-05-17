@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Wastewraps</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- tips on recycling and waste management -->
+    <string name="tip_1">1: Rinse food containers before recycling to avoid contamination and unpleasant odors in the recycling bin.</string>
+    <string name="tip_2">2: Separate different materials like plastic, paper, and glass to make recycling easier and more efficient.</string>
+    <string name="tip_3">3: Flatten cardboard boxes to save space in recycling bins and trucks.</string>
+    <string name="tip_4">4: Recycle old electronics at designated collection centers to prevent harmful materials from entering landfills.</string>
+    <string name="tip_5">5: Remove bottle caps before recycling plastic bottles to ensure they can be properly processed.</string>
+    <string name="tip_6">6: Use reusable shopping bags instead of single-use plastic bags to reduce waste.</string>
+    <string name="tip_7">7: Donate gently used clothes and household items to charity or thrift stores instead of throwing them away.</string>
+    <string name="tip_8">8: Buy products made from recycled materials to support the demand for recycling.</string>
+    <string name="tip_9">9: Recycle empty aerosol cans after ensuring they are completely empty and not hazardous.</string>
+    <string name="tip_10">10: Repurpose glass jars for storage or crafts instead of discarding them.</string>
+    <string name="tip_11">11: Look for recycling symbols on packaging to identify materials that can be recycled.</string>
+    <string name="tip_12">12: Avoid using single-use plastic water bottles by opting for a reusable water bottle.</string>
+    <string name="tip_13">13: Dispose of old medications properly by taking them to a local pharmacy or designated collection site.</string>
+    <string name="tip_14">14: Purchase products with minimal packaging or packaging made from recyclable materials.</string>
+    <string name="tip_15">15: Educate others about the importance of recycling and encourage them to participate in recycling programs.</string>
+
+    <!-- Pros of Recycling waste -->
+    <string name="pro_1">1. Conservation of resources: Recycling helps conserve valuable natural resources by reducing the need for raw materials extraction.</string>
+    <string name="pro_2">2. Energy savings: Recycling typically requires less energy compared to producing new products from raw materials.</string>
+    <string name="pro_3">3. Waste reduction: Recycling helps divert waste from landfills, reducing the strain on limited landfill space.</string>
+    <string name="pro_4">4. Reduced greenhouse gas emissions: Recycling reduces the amount of energy needed for manufacturing, resulting in lower carbon emissions.</string>
+    <string name="pro_5">5. Job creation: Recycling industries create employment opportunities, from collection and sorting to processing and manufacturing.</string>
+
+    <!-- Cons of waste recycling methods -->
+    <string name="con_1">1. Contamination risks: Contamination of recyclables with non-recyclable materials can reduce the quality and value of recycled products.</string>
+    <string name="con_2">2. Costly infrastructure: Establishing and maintaining recycling infrastructure, such as sorting facilities and processing plants, can be expensive.</string>
+    <string name="con_3">3. Limited material acceptance: Not all types of waste can be effectively recycled, limiting the scope of recycling programs.</string>
+    <string name="con_4">4. Transportation emissions: The transportation of recyclables to processing facilities can contribute to carbon emissions and environmental impact.</string>
+    <string name="con_5">5. Energy-intensive processes: Certain recycling methods require significant energy inputs, offsetting some of the environmental benefits.</string>
+</resources>
